@@ -1,3 +1,7 @@
+#Useful Links!
+#https://pinout.xyz
+#https://gpiozero.readthedocs.io/en/stable/recipes.html#button
+
 #Created by Zach Winters, TEC 284 Quiz 2
 #Importing the required libraries
 from gpiozero import Button, LED
